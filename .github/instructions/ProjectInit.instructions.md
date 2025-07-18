@@ -1,9 +1,6 @@
 ---
 applyTo: '**'
 ---
----
-applyTo: '**'
----
 **Description:** Set up the base Node.js project with TypeScript and Express.
 - [ ] Initialize Node.js project
 - [ ] Install Express.js
