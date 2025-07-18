@@ -6,7 +6,6 @@ applyTo: '**'
 ---
 **Description:** Set up the base Node.js project with TypeScript and Express.
 - [ ] Initialize Node.js project
-- [ ] Add TypeScript support
 - [ ] Install Express.js
 - [ ] Create folder structure: 
 ```
